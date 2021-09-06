@@ -1,0 +1,7 @@
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe.config
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\bin\Debug\6-AtribuicoesDeVariaveis.pdb
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.exe
+C:\Users\Bk Bank - Atend 4\source\repos\AprendendoCSharp\6-AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.pdb
